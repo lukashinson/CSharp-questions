@@ -56,8 +56,8 @@ int[] values = { 99, 720, 2, 126 };
 23.)What is finally and what is its purpose? Finally is the block that executes a given set of statements whether an exception is thrown or not thrown.
 ---
 24.) List the differences between Array and ArrayList.
-..* Array list can store any type of data
-..* Array can only store specific type of items or elements.
+* Array list can store any type of data
+* Array can only store specific type of items or elements.
 ---
 25.)What is an object? A class that is created by user blueprints
 ---
